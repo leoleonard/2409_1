@@ -31,7 +31,7 @@ public class Points {
             System.out.println("Fourth quarter");
         }
         if (x==0 && y==0) {
-            System.out.println("0,0");
+            System.out.println("Perfect, it's 0,0");
         }
 
     }
